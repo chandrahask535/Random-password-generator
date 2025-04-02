@@ -1,5 +1,3 @@
-# motioncut-task3
-
 # README: Password Generator (TASK 3)
 
 ## Author: CHANDRAHAS K
