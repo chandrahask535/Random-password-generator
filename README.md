@@ -1,4 +1,4 @@
-# README: Password Generator (TASK 3)
+# README: Password Generator
 
 ## Author: CHANDRAHAS K
 
